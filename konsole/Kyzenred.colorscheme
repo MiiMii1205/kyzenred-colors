@@ -2,10 +2,10 @@
 Color=3,27,22
 
 [BackgroundFaint]
-Color=27,3,8
+Color=1,13,10
 
 [BackgroundIntense]
-Color=47,19,24
+Color=8,31,26
 
 [Color0]
 Color=23,37,34
@@ -91,6 +91,6 @@ Color=237,255,252
 [General]
 Blur=false
 ColorRandomization=false
-Description=Ryzenred
+Description=Kyzenred
 Opacity=1
 Wallpaper=
